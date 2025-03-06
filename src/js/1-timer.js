@@ -9,7 +9,7 @@ const refs = {
   hours: document.querySelector('[data-hours]'),
   minutes: document.querySelector('[data-minutes]'),
   seconds: document.querySelector('[data-seconds]'),
-  picker: document.querySelector('#datetime-picker')
+  picker: document.querySelector('#datetime-picker'),
 };
 
 let timer = null;
